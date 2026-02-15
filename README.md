@@ -63,7 +63,7 @@
 
 For issues or questions:
 - GitHub: https://github.com/Yatin07/Buildathon
-- Email: support@urbanvoice.app (if available)
+- Email: yatinpatilyp07@gmail.com 
 
 ## 🎯 For Hackathon Judges
 
